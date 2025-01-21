@@ -1,2 +1,2 @@
 # เปิดDocker
-# แล้วรันด้วยdocker-compose up ใน  Visual Studio Code
+# แล้วใช้คำสั่ง docker-compose up ใน  Visual Studio Code
