@@ -1,1 +1,2 @@
-# Assignment-G03
+# เปิดDocker
+# แล้วรันด้วยdocker-compose up ใน  Visual Studio Code
